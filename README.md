@@ -1,2 +1,2 @@
 # Jubilant-octo-garbanzo
-A Python chatbot for randomized texting
+A Python chatbot for randomized texting.
